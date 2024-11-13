@@ -12,6 +12,12 @@ For older projects with incompatible dependencies:
 npm install --save --legacy-peer-deps
 ```
 
+or 
+
+```bash
+yarn
+```
+
 ### 2. Increase Yarn Network Timeout
 
 ```bash
