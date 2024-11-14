@@ -7,16 +7,25 @@ A handy collection of frequently-used commands for JavaScript developers. Feel f
 ## 📦 Package Management
 
 ### 1. Install Dependencies with Legacy Peer Deps
+For installing all dependencies
+```bash
+npm install
+```
+or 
+```bash
+yarn
+```
+
+
 For older projects with incompatible dependencies:
 ```bash
 npm install --save --legacy-peer-deps
 ```
-
-or 
-
+or
 ```bash
-yarn
+yarn install --ignore-peer-deps
 ```
+
 
 ### 2. Increase Yarn Network Timeout
 
