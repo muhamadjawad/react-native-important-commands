@@ -64,7 +64,7 @@ git config --global user.email "your-email@example.com"
 
 ### 2. View all Configurations
 ```bash
-git config --list
+git config --list 
 ```
 
 ## 🔄 Other Useful Commands
