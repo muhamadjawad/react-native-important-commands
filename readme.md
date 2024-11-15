@@ -6,6 +6,12 @@ A handy collection of frequently-used commands for JavaScript developers. Feel f
 
 ## 📦 Package Management
 
+## Installing yarn
+
+```bash
+npm install -g yarn
+```
+
 ### 1. Install Dependencies with Legacy Peer Deps
 For installing all dependencies
 ```bash
@@ -15,7 +21,6 @@ or
 ```bash
 yarn
 ```
-
 
 For older projects with incompatible dependencies:
 ```bash
