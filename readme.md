@@ -53,7 +53,7 @@ npm cache clean --force
 ### Cleaning Gradle
 
 ```bash
-cn android
+cd android
 ```
 
 ```bash
