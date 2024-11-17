@@ -50,6 +50,16 @@ npm cache clean --force
 ./gradlew assembleRelease
 ```
 
+### Cleaning Gradle
+
+```bash
+cn android
+```
+
+```bash
+./gradlew clean
+```
+
 ## 👤 Updating Git Username and Email
 
 ### 1. Update Username
