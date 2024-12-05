@@ -49,6 +49,11 @@ npm cache clean --force
 ```bash
 ./gradlew assembleRelease
 ```
+### Creating APK for Expo
+
+```bash
+eas build -p android --profile preview --clear-cache
+```
 
 ### Cleaning Gradle
 
